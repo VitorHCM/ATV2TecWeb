@@ -5,7 +5,7 @@ Aluno: Vitor Hugo Campos Moura - 2312130182
 
 # Funcionalidades
 
-O formulario permite adicionar tarefas a uma lista de tarefas a serem concluidas.
+O formulário permite adicionar tarefas dentro de uma lista de tarefas a serem concluídas.
 Cada tarefa adicionada é salva através da implementação da API Rest dentro do db.json.
 Alem disso, cada tarefa salva pode ser concluida através de um botao "Concluir", que move a tarefa concluida para uma nova lista chamada "Tarefas Concluidas". Caso o usuario queira desfazer essa ação, basta clicar no botão "desfazer" que esta ao lado de cada tarefa concluida.
 Ademais, o formulario valida o preenchimento do campo de "Nome da tarefa" para que o item nao possa ser adicionado sem o seu preenchimento devido.
